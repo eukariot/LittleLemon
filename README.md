@@ -1,2 +1,6 @@
 ﻿# LittleLemon
-## About
+## APIs to test
+
+/restaurant/menu/
+/restaurant/booking/tables/
+/auth/
